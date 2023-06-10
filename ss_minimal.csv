@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2
+cas9_1,https://github.com/iaradsouza1/test-dataset/raw/main/samples/cas9_rep1_1.fastq.gz,https://github.com/iaradsouza1/test-dataset/raw/main/samples/cas9_rep1_2.fastq.gz
